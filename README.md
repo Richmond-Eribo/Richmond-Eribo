@@ -1,7 +1,16 @@
 <p align="center"> 👋 </p>
 <p align="center"> <img src="images/mw.svg" width="120%"> </p>
+<p align="center">
+<a href= "https://twitter.com/_Rixchy"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+</p>
 
+```javascript
+const Richmond = {
+    BrainCapacity: 'Plenty',
+    Traits: ['love building product', 'optimistic', 'Music is Everything'],
+}
 
+```
 
 
 <!--
