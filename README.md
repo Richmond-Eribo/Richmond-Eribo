@@ -1,5 +1,5 @@
 <p align="center"> 👋 </p>
-<p align="center"> <img src="images/my name.png" > </p>
+<p align="center"> <img src="./images/my name.png" > </p>
 <p align="center">
 <a href= "https://twitter.com/_Rixchy"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
