@@ -7,7 +7,11 @@
 ```javascript
 const Richmond = {
     BrainCapacity: 'Plenty',
-    Traits: ['love building product', 'optimistic', 'Music is Everything'],
+    Traits: [
+              'love building product',
+              'optimistic',
+              'Music is Everything'
+            ],
 }
 
 ```
