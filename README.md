@@ -1,5 +1,5 @@
 <p align="center"> 👋 </p>
-<p align="center"> <img src="images/name.svg" width="120%"> </p>
+<p align="center"> <img src="images/mw.svg" width="120%"> </p>
 
 
 
