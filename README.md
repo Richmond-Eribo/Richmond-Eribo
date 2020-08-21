@@ -15,7 +15,7 @@ const Richmond = {
 }
 
 ```
-hgfd
+<p align="center"> Check out my repos </p>
 
 <!--
 **Richmond-Eribo/Richmond-Eribo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
