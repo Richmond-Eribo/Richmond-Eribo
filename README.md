@@ -1,5 +1,7 @@
+<p align="center"> 👋 </p>
+<p align="center"> <img src="https://i.postimg.cc/gjpbcGCn/fa.png" > </p>
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+<a href= "https://twitter.com/_Rixchy"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
 
 ```javascript
