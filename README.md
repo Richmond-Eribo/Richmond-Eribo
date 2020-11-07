@@ -17,8 +17,8 @@ const Richmond = {
 ```
 <p align="center"> Check out my repos </p>
 
-<p align="center"> [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Richmond-Eribo)](https://github.com/anuraghazra/github-readme-stats)
- </p>
+< align="center"> [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Richmond-Eribo)](https://github.com/anuraghazra/github-readme-stats)
+ </>
 
 <!--
 **Richmond-Eribo/Richmond-Eribo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
